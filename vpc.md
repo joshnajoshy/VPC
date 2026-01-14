@@ -21,12 +21,12 @@
 
 ## Creating a VPC:
 1. Go to VPC section on AWS and click create VPC
-![alt text](image-3.png)
+![alt text](<Screenshot 2026-01-14 121931.png>)
 2. Name VPC 
 3. Input IPv4 CIDR 10.0.0.0/16
 ![alt text](image-4.png)
-4. All other settings can be left the same and tags should have auto filled.
-5. Now can create VPC  
+1. All other settings can be left the same and tags should have auto filled.
+2. Now can create VPC  
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 
